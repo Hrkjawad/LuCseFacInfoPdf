@@ -1,11 +1,11 @@
 {
-    "name": "lu_cse_faculty_info",
-    "short_name": "lu_cse_faculty_info",
+    "name": "lu cse faculty info",
+    "short_name": "lu cse faculty info",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "LU cse faculty details pdf generate",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
